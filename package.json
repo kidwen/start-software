@@ -1,7 +1,7 @@
 {
     "name": "my-electron-app",
-    "version": "0.0.1ß",
-    "description": "",
+    "version": "0.0.1",
+    "description": "start my software",
     "main": "main.js",
     "scripts": {
         "start": "electron-forge start",
